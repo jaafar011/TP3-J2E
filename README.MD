@@ -7,6 +7,7 @@
 
 <h2>Captures de l'execution </h2>
 
+<img src="images/img5.png">
 <img src="images/img2.png">
 <img src="images/img3.png">
 <img src="images/img4.png">
